@@ -1,6 +1,8 @@
 # Tasklist
 
 ## Descrição
+Neste desafio desenvolvido na _Trilha Ignite_ da Rocketseat foi criado essa aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React. Suas principais funções são adicionar uma nova tarefa, remover uma tarefa é marcar e desmarcar uma tarefa como concluída.
+
 
 ## Tecnologias utilizadas
 <div style="display: inline_block"><br>
