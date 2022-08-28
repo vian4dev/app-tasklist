@@ -18,6 +18,10 @@
 </div>
 
 ## Demostração
+Apresentação da tela do aplicativo.
+<div align="center">
+  <img src="https://i.ibb.co/R9Q86S0/tasklist.png" alt="tasklist" border="0">
+</div>
 
 ## Instalação
 Clone o repositório.
