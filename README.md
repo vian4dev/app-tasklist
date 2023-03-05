@@ -55,7 +55,7 @@ git clone git@github.com:vian4dev/app-tasklist.git
 ~~~
 Acesse o diretório do projeto.
 ~~~
-cd app-tasklist
+cd app-tasklist/
 ~~~
 Instale as dependências.
 ~~~
