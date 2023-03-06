@@ -35,6 +35,8 @@ Neste desafio desenvolvido na _Trilha Ignite_ da Rocketseat foi criado essa ap
   
   <img align="center" alt="img-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   
+  <img align="center" alt="img-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
   <img align="center" alt="img-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 
   <img align="center" alt="img-webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
