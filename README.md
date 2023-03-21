@@ -50,7 +50,7 @@ Apresentação da tela do aplicativo.
   <img src="https://i.ibb.co/R9Q86S0/tasklist.png" alt="tasklist" border="0">
 </div>
 
-## ⚙️ Instalação
+## 🔥 Instalação
 Clone o repositório.
 ~~~
 git clone git@github.com:vian4dev/app-tasklist.git
