@@ -47,7 +47,7 @@ Neste desafio desenvolvido na _Trilha Ignite_ da Rocketseat foi criado essa ap
 ## 📷 Demostração
 Apresentação da tela do aplicativo.
 <div align="center">
-  <img src="./.github/tasklist.png" alt="tasklist" border="0">
+  <img src="./.github/tasklist.gif" alt="tasklist" border="0">
 </div>
 
 ## 🔥 Instalação
