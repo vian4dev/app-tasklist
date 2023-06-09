@@ -65,7 +65,7 @@ yarn
 ~~~
 Execute a aplicação.
 ~~~
-yarn start
+yarn dev
 ~~~
 
 ## 📝 Licença
